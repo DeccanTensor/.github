@@ -12,7 +12,7 @@
 
 **Deccan Tensor Labs** operates at the intersection of thermodynamics and software architecture. We believe that the digital universe naturally tends toward disorder (bloat, latency, complexity). Our mandate is to reverse this process.
 
-We forge **Artifacts** and **Protocols** designed for the Agentic Web—tools that are lightweight, strongly typed, and mathematically precise.
+We forge **Open Source Artifacts** and **Protocols** designed for the Agentic Web—tools that are lightweight, strongly typed, and mathematically precise.
 
 > *"We don't just write software; we structure reality."*
 
