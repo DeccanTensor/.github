@@ -22,7 +22,7 @@ We forge **Open Source Artifacts** and **Protocols** designed for the Agentic We
 
 | Artifact | Status | Classification | Description |
 | :--- | :--- | :--- | :--- |
-| **[toon-py](https://github.com/Deccan-Tensor/toon-py)** | 🟢 **Active** | `Protocol` | Reference implementation for **Python**. The core serializer. |
+| **[toon-py](https://github.com/Deccan-Tensor/toon-py)** | 🟢 **Active** | `Protocol` | High-velocity, industrial implementation of TOON v3.0 for **Python**. |
 | **[toon-dotnet](https://github.com/Deccan-Tensor/toon-dotnet)** | 🟠 **In Dev** | `Protocol` | Native **C# / .NET** implementation for enterprise ecosystems. |
 | **[toon-vscode](https://github.com/Deccan-Tensor/toon-vscode)** | 🟡 **Planned** | `Tooling` | IDE Syntax highlighting and intelligence for `.toon` files. |
 
@@ -32,10 +32,9 @@ We forge **Open Source Artifacts** and **Protocols** designed for the Agentic We
 
 We build with high-fidelity tools for high-velocity results.
 
-* **Core:** `Python 3.10+`, `C# .NET 8`
+* **Interface:** `Python 3.10+`, `C# .NET 8`
 * **Engine:** `Rust` (Planned for v2.0 Core)
-* **Domain:** `LLM Optimization`, `Data Serialization`, `Agentic Systems`
-* **Philosophy:** Zero Dependency, Type Safety, Low Latency.
+* **Domain:** `LLM Optimization`, `Data Serialization`, `Systems Engineering`, `Agentic Systems`
 
 ---
 
